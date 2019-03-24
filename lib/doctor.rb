@@ -1,4 +1,4 @@
-class Doctor 
+class Doctor
   attr_accessor :name, :appointments, :patients
 
   @@all[]
@@ -17,6 +17,6 @@ class Doctor
   def new_appointment(patients, date)
     appointment = appointment.new (date, patient, self)
     @appointments<<appointment
-    
-    
+
+
   end
