@@ -59,4 +59,3 @@ describe "Artist" do
   end
 
 end
-
