@@ -2,7 +2,7 @@ class Song
   end
 
   @@all []
-  end 
+  end
 
   describe "Song" do
 
@@ -47,5 +47,3 @@ class Song
       end
     end
   end
-
-  
